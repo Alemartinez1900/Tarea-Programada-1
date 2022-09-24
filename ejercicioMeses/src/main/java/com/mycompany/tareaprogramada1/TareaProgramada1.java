@@ -69,7 +69,8 @@ public class TareaProgramada1 {
 
                 case 10:
                     JOptionPane.showMessageDialog(null, "Mes de Octubre \n Tercer Cuatrimestre");
-
+                    break;    
+                    
                 case 11:
                     JOptionPane.showMessageDialog(null, "Mes de Noviembre \n Tercer Cuatrimestre");
                     break;
